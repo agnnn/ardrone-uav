@@ -1,0 +1,1 @@
+A undergraduation project on automation and computer vision with AR Drone and openCV
